@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>icon-top-of-page-white</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon-top-of-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M13,8.115 L15.885,11 C16.275,11.39 16.905,11.39 17.295,11 C17.685,10.61 17.685,9.98 17.295,9.59 L12.705,5 C12.325,4.61 11.685,4.61 11.295,5 L6.705,9.59 C6.315,9.98 6.315,10.61 6.705,11 C7.095,11.39 7.725,11.39 8.115,11 L11,8.12241645 L11,19 C11,19.5522847 11.4477153,20 12,20 C12.5522847,20 13,19.5522847 13,19 L13,8.115 Z M12,24 C5.372583,24 1.76747506e-13,18.627417 1.76747506e-13,12 C1.76747506e-13,5.372583 5.372583,-1.27897692e-13 12,-1.27897692e-13 C18.627417,-1.27897692e-13 24,5.372583 24,12 C24,18.627417 18.627417,24 12,24 Z" id="icon/file/download_24px" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>
